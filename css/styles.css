@@ -50,9 +50,7 @@ div[class*="container"] {
     min-height: 250px;
 }
 
-body {
-    height: 100vh;
-}
+
 
 a {
     text-decoration: none;
