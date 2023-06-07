@@ -49,3 +49,7 @@ div[class*="col"] {
 div[class*="container"] {
     min-height: 250px;
 }
+
+body {
+    height: 100vh;
+}
