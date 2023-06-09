@@ -68,3 +68,7 @@ a:hover {
 .tooBright:hover {
     color: black;
 }
+
+body {
+    height: 100vh;
+}
